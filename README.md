@@ -15,7 +15,7 @@
 - 🛠️ Working on DevOps pipelines and system automation
 
 📫 **Reach me at**:  
-[LinkedIn](https://www.linkedin.com/in/ahmed-hazem0) • [Gmail](mailto:amdhazm0@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/ahmed-hazem0](https://www.linkedin.com/in/ahmed-hazem-727b52272/)) • [Gmail](mailto:amdhazm0@gmail.com)
 
 ---
 
